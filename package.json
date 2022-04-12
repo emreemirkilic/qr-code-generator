@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/emreemirkilic/qr-code-generator/issues"
   },
-  "homepage": "https://github.com/emreemirkilic/qr-code-generator#readme"
+  "homepage": "https://github.com/emreemirkilic/qr-code-generator#readme",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
 }
