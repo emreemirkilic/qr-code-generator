@@ -18,7 +18,7 @@ const downloadFile = async (fileUrl, downloadFolder) => {
             console.log(`yeah boi`);
         });
     } catch (err) {
-        throw new Error(err);
+        throw new Error(err);//
     }
 };
 
